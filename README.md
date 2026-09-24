@@ -11,3 +11,7 @@ The warm cream, dark charcoal, and orange colour palette gives the application a
 A row of quick-search chips for Nature, Cities, and Animals was added to make common searches easy to access.
 
 The results area uses CSS Grid with auto-fill so the layout automatically adapts to different screen sizes.
+
+## Part 1
+
+This version provides the initial responsive search interface. Image results and search functionality will be added in Part 2.
